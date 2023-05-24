@@ -19,20 +19,17 @@ Este projeto tem como objetivo por em pratica a migração do JavaScript para Ty
 
 ## Instalações
 
-👉 npm install --save typescript @types/node @types/react @types/react-dom @types/jest
+→ npm install --save typescript @types/node @types/react @types/react-dom @types/jest
 
-- Para arrumar o arquivo de configuração e dependências do "TypScript Config":
+Para arrumar o arquivo de configuração e dependências do "TypScript Config":
 
-👉 npx tsc --init
+→ npx tsc --init
 
 ## Conclusão
 
 Este projeto apresenta a utilização do REACT.js, além da prototipação de migração para o Typescript.
 
 ## Bonus - Comentários em Códigos
-
-👉 HTML:
-<!-- Este é um comentário em HTML -->
 
 👉CSS:
 /* Este é um comentário em CSS */
