@@ -15,7 +15,7 @@ Este projeto tem como objetivo por em pratica a migração do JavaScript para Ty
 
 ### Funcionalidades
 
--------------------------------------------------------------------.
+-------------------------------------------------------------------
 
 ## Instalações
 
