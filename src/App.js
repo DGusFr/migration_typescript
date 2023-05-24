@@ -1,5 +1,7 @@
 import { useState } from 'react';
-import Banner from './componentes/Banner';
+// Importação geral: import Banner from './componentes/Banner';
+// Importação de um modulo em especifico:
+import { Banner } from './componentes/Banner';
 import Formulario from './componentes/Formulario';
 import Time from './componentes/Time';
 
