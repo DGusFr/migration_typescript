@@ -28,3 +28,20 @@ Este projeto tem como objetivo por em pratica a migração do JavaScript para Ty
 ## Conclusão
 
 Este projeto apresenta a utilização do REACT.js, além da prototipação de migração para o Typescript.
+
+## Bonus - Comentarios em Códigos
+
+👉 HTML:
+<!-- Este é um comentário em HTML -->
+
+👉CSS:
+/* Este é um comentário em CSS */
+
+👉JS:
+//Este é um comentário em JS
+
+👉JSX:
+{/* Este é um comentário em JSX */}
+
+
+
