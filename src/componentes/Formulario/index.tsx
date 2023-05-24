@@ -63,6 +63,7 @@ const Formulario = (props: FormularioProps) => {
                     placeholder='' 
                     valor={data}
                     aoAlterado={valor => setData(valor)}
+                    tipo="date"
                 />
                 <ListaSuspensa
                     obrigatorio={true}
