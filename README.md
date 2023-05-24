@@ -29,7 +29,7 @@ Este projeto tem como objetivo por em pratica a migração do JavaScript para Ty
 
 Este projeto apresenta a utilização do REACT.js, além da prototipação de migração para o Typescript.
 
-## Bonus - Comentarios em Códigos
+## Bonus - Comentários em Códigos
 
 👉 HTML:
 <!-- Este é um comentário em HTML -->
